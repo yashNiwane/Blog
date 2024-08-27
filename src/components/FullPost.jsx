@@ -44,7 +44,7 @@ const FullPost = () => {
           to="/"
           className="inline-block mt-6 px-4 py-2 bg-purple-600 text-white rounded-full hover:bg-purple-700 transition-colors duration-300"
         >
-          Back to Posts
+          Back to Home
         </Link>
       </div>
     );
@@ -63,7 +63,7 @@ const FullPost = () => {
         to="/"
         className="inline-block mt-6 px-4 py-2 bg-purple-600 text-white rounded-full hover:bg-purple-700 transition-colors duration-300"
       >
-        Back to Posts
+        Back to Home
       </Link>
     </div>
   );

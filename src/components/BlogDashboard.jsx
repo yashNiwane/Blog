@@ -44,7 +44,7 @@ const BlogDashboard = () => {
 
   return (
     <div className="p-6 bg-gradient-to-br from-purple-100 to-indigo-100">
-      <h2 className="text-3xl font-bold mb-6 text-center text-purple-800">Latest Blog Posts</h2>
+      <h2 className="text-3xl font-bold mb-6 text-center text-purple-800">Latest Posts</h2>
       {posts.length === 0 && <p className="text-center text-gray-600">No posts found.</p>}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {posts.map((post) => (
