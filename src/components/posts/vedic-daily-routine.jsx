@@ -1,4 +1,4 @@
-const Vedic_Daily_Routine = {
+const vedic_daily_routine = {
     id: "vedic-daily-routine",
     title: "Vedic Daily Routine: A Modern Guide",
     date: "August 29, 2024",
@@ -36,4 +36,4 @@ const Vedic_Daily_Routine = {
     ],
 };
 
-export default Vedic_Daily_Routine;
+export default vedic_daily_routine;
