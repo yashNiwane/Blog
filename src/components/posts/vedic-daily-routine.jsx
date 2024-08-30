@@ -1,5 +1,5 @@
-const Vedic_daily_routine = {
-    id: "vedic-daily-routine",
+const Vedic_Daily_Routine = {
+    id: "Vedic-Daily-Routine",
     title: "Vedic Daily Routine: A Modern Guide",
     date: "August 29, 2024",
     category: "Health",
@@ -36,4 +36,4 @@ const Vedic_daily_routine = {
     ],
 };
 
-export default Vedic_daily_routine;
+export default Vedic_Daily_Routine;
